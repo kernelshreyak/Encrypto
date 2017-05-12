@@ -19,7 +19,12 @@ IMPORTANT:- When using this in a production environment,change the key[] array f
 
 
 
+--------------------------------------------------------------------------------------------------------
+RELEASE NOTES v1.1:
+1. Added GUI for Windows.
+2. Added support for browsing file to encrypt/decrypt
 
------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------
 RELEASE NOTES v1.0:
 1. Added C++ and Java versions with command-line support (next release will include GUI for Windows)
