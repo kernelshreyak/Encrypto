@@ -13,6 +13,10 @@ Usage (command line):- 1.compile the C++ source file or directly use Java(JAR),W
 
 Note:-Keep a backup of the file before encrypting to be safe from any potential data loss.
 
+IMPORTANT:- When using this in a production environment,change the key[] array for encryption/decryption (at the minimum)
+            AND/OR modify the encrypt() and decryt() functions to include custom code (recommended).
+	    
+
 
 
 
