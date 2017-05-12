@@ -12,3 +12,10 @@ Usage (command line):- 1.compile the C++ source file or directly use Java(JAR),W
 
 
 Note:-Keep a backup of the file before encrypting to be safe from any potential data loss.
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+RELEASE NOTES v1.0:
+1. Added C++ and Java versions with command-line support (next release will include GUI for Windows)
